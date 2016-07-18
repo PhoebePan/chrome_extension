@@ -1,19 +1,15 @@
 # chrome_extension
 
-Btn Exchange Chrome Extension
+Reload Chrome Extension
 ========
 
-"Exchange Btn DOM in the web"
+"Reload All tab in the chrome"
 
 
 
-預計開發的功能
+功能
 ----
 
-以下是模擬暫定的功能，會再調整。
-
-- 使用者是否擁有帳號，沒有帳號即連到註冊帳號頁面。
-- 登入功能。
-- 啟動（替換 DOM）選項。
+- 重整所有 chrome tab 的頁面。
 
 
