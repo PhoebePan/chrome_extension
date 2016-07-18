@@ -1,15 +1,13 @@
-# chrome_extension
-
 Reload Chrome Extension
 ========
 
-"Reload All tab in the chrome"
+"Reload All tabs in the chrome"
 
 
 
 功能
 ----
 
-- 重整所有 chrome tab 的頁面。
+- 重整所有 chrome tabs 頁面。
 
 
